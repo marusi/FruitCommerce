@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "npyj/j1uF1h3Xcyy8Do/nGQ0/kULh5eDQyjQCJBxdjLvKZSLavNVZ6SPwBCycoRnV8+Ko5WweIb1aeATu0DBVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\FruitCommerce.Domain\\FruitCommerce.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\mediatr\\8.0.2\\mediatr.8.0.2.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

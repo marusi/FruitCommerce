@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\FruitCommerce.Data\bin\Debug\netcoreapp3.1\FruitCommerce.Data.deps.json
+C:\Users\Hp\source\repos\FruitCommerce.Data\bin\Debug\netcoreapp3.1\FruitCommerce.Data.runtimeconfig.json
+C:\Users\Hp\source\repos\FruitCommerce.Data\bin\Debug\netcoreapp3.1\FruitCommerce.Data.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\FruitCommerce.Data\bin\Debug\netcoreapp3.1\FruitCommerce.Data.dll
+C:\Users\Hp\source\repos\FruitCommerce.Data\bin\Debug\netcoreapp3.1\FruitCommerce.Data.pdb
+C:\Users\Hp\source\repos\FruitCommerce.Data\obj\Debug\netcoreapp3.1\FruitCommerce.Data.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\FruitCommerce.Data\obj\Debug\netcoreapp3.1\FruitCommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\FruitCommerce.Data\obj\Debug\netcoreapp3.1\FruitCommerce.Data.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\FruitCommerce.Data\obj\Debug\netcoreapp3.1\FruitCommerce.Data.AssemblyInfo.cs
+C:\Users\Hp\source\repos\FruitCommerce.Data\obj\Debug\netcoreapp3.1\FruitCommerce.Data.dll
+C:\Users\Hp\source\repos\FruitCommerce.Data\obj\Debug\netcoreapp3.1\FruitCommerce.Data.pdb
+C:\Users\Hp\source\repos\FruitCommerce.Data\obj\Debug\netcoreapp3.1\FruitCommerce.Data.genruntimeconfig.cache
+C:\Users\Hp\source\repos\FruitCommerce.Data\bin\Debug\netcoreapp3.1\FruitCommerce.Domain.dll
+C:\Users\Hp\source\repos\FruitCommerce.Data\bin\Debug\netcoreapp3.1\FruitCommerce.Domain.pdb
+C:\Users\Hp\source\repos\FruitCommerce.Data\obj\Debug\netcoreapp3.1\FruitCommerce.Data.csproj.CopyComplete
+C:\Users\Hp\source\repos\FruitCommerce.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hp\source\repos\FruitCommerce.Data\bin\Debug\netcoreapp3.1\appsettings.json

@@ -1,0 +1,9 @@
+C:\Users\Hp\source\repos\FruitCommerce.Domain\bin\Debug\netstandard2.0\FruitCommerce.Domain.deps.json
+C:\Users\Hp\source\repos\FruitCommerce.Domain\bin\Debug\netstandard2.0\FruitCommerce.Domain.dll
+C:\Users\Hp\source\repos\FruitCommerce.Domain\bin\Debug\netstandard2.0\FruitCommerce.Domain.pdb
+C:\Users\Hp\source\repos\FruitCommerce.Domain\obj\Debug\netstandard2.0\FruitCommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\FruitCommerce.Domain\obj\Debug\netstandard2.0\FruitCommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\FruitCommerce.Domain\obj\Debug\netstandard2.0\FruitCommerce.Domain.AssemblyInfo.cs
+C:\Users\Hp\source\repos\FruitCommerce.Domain\obj\Debug\netstandard2.0\FruitCommerce.Domain.dll
+C:\Users\Hp\source\repos\FruitCommerce.Domain\obj\Debug\netstandard2.0\FruitCommerce.Domain.pdb
+C:\Users\Hp\source\repos\FruitCommerce.Domain\obj\Debug\netstandard2.0\FruitCommerce.Domain.csprojAssemblyReference.cache

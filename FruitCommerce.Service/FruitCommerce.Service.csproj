@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="MediatR" Version="8.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FruitCommerce.Data\FruitCommerce.Data.csproj" />
+    <ProjectReference Include="..\FruitCommerce.Domain\FruitCommerce.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

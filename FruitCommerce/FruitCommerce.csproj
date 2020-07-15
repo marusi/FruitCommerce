@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.0" />
+
+     <PackageReference Include="MediatR" Version="8.0.2" />    
+ 
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="5.5.1" />
+
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="5.1.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FruitCommerce.Data.DI\FruitCommerce.Data.DI.csproj" />
+    <ProjectReference Include="..\FruitCommerce.Data\FruitCommerce.Data.csproj" />
+    <ProjectReference Include="..\FruitCommerce.Domain\FruitCommerce.Domain.csproj" />
+    <ProjectReference Include="..\FruitCommerce.Service\FruitCommerce.Service.csproj" />
+  </ItemGroup>
+
+
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>
